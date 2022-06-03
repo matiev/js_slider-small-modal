@@ -1,7 +1,7 @@
 :root {
     --blue1: rgb(72 72 148);
     --blue2: rgb(77 104 185);
-    --blue3: red;
+    --blue3: rgb(28 52 123);
 }
 html,body {
     font-family: 'Georgia', Courier New, sans-serif;
